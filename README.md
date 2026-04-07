@@ -1,0 +1,2 @@
+# sca
+Simple calendar application
